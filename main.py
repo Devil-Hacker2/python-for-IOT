@@ -2,6 +2,6 @@
 n = input()
 
 if s == s[::-1]:
-	print("palin")
+	print("palindrome")
 else:
-	print("NOT palin")
+	print("NOT palindrome")
